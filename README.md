@@ -4,6 +4,7 @@ This script will load training and testing fashion data, and will train an RCNN 
 Note: This file is runnable only on Google Collab and requires Google Drive.
 
 Contributions: 
+
 Gural: (38 - 200)
 Download data, format it, and extract images and masks from image dataset for training, validation and testing.
 
